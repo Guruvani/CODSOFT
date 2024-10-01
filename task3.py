@@ -1,3 +1,6 @@
+#CodSoft Task 3 - Password Generator
+#Code for the Password Generator
+
 import random 
 import string
 
